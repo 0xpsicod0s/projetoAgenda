@@ -22,6 +22,11 @@ O projeto ainda está em desenvolvimento e as prováveis próximas atualizaçõe
 - [ ] Validar os formulários no front end
 - [ ] Deixar o registro e edição de contatos em páginas diferentes
 
+```bash
+# Estas são algumas melhorias que eu pensei, caso você pense em alguma, pode me chamar no discord e recomendar
+Discord: .̾/̾cxn#0001
+```
+
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
