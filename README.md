@@ -58,7 +58,7 @@ CONNECTIONSTRING=string de conexao
 # É importante que o nome da variável seja CONNECTIONSTRING para que a conexão com o banco de dados seja feita sem necessidade de alterações no código
 
 # Em seguida, acesse o servidor local através do seu navegador, na porta 3000 (porta padrão que deixei)
-# Para acessar o servidor local: http://localhost:3000
+Para acessar o servidor local: http://localhost:3000
 ```
 
 ## 📂 Estrutura do diretório
