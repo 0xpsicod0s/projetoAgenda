@@ -51,7 +51,14 @@ Para usar a agenda, siga estas etapas:
 # Rode o servidor local através do comando:
 $ npm start
 
-# Em seguinda acesse o servidor local através do seu navegador, na porta "especificada" pelo output do terminal.
+# Crie um arquivo na raiz do projeto denominado de ".env" (sem aspas)
+
+# No arquivo .env adicione a string de conexão com a database:
+# CONNECTIONSTRING=mongodb+srv://<user>:<password>@cluster0.oiu7r.mongodb.net/AGENDA?retryWrites=true&w=majority
+# Mude <user> para seu usuário do banco de dados e <password> para sua senha
+
+# Em seguida, acesse o servidor local através do seu navegador, na porta 3000 (porta padrão que deixei)
+# Para acessar o servidor local: http://localhost:3000
 ```
 
 ## 📂 Estrutura do diretório
