@@ -1,4 +1,4 @@
-# Nome do projeto
+# Projeto Agenda
 
 <img height="300px" src="https://i.imgur.com/EorngqQ.png?1" alt="agenda">
 
@@ -53,9 +53,9 @@ $ npm start
 
 # Crie um arquivo na raiz do projeto denominado de ".env" (sem aspas)
 
-# No arquivo .env adicione a string de conexão com a database:
-# CONNECTIONSTRING=mongodb+srv://<user>:<password>@cluster0.oiu7r.mongodb.net/AGENDA?retryWrites=true&w=majority
-# Mude <user> para seu usuário do banco de dados e <password> para sua senha
+# No arquivo .env adicione a string de conexão com a database
+CONNECTIONSTRING=string de conexao
+# É importante que o nome da variável seja CONNECTIONSTRING para que a conexão com o banco de dados seja feita sem necessidade de alterações no código
 
 # Em seguida, acesse o servidor local através do seu navegador, na porta 3000 (porta padrão que deixei)
 # Para acessar o servidor local: http://localhost:3000
